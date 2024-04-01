@@ -1,0 +1,23 @@
+your github credentials are wrong,
+proof: check repo, there are 2 contributors with same name but diff id
+
+
+
+run git config
+
+git commit -m "init"                                                                                                                                                                                      ─╯
+[main c0c60e1] init
+ Committer: Tarun Kumar <tarunkumar@Taruns-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
